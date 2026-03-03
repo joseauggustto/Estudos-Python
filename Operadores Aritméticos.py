@@ -59,4 +59,39 @@ round_number_1 = 2.345
 round_number_2 = 3.234
 
 print(round(round_number_1))
-print(round(round_number_2, 2))
+print(round(round_number_2, 2)) # Duas casas após a vírgula.
+
+#-------------------------------------
+
+#Eu posso reduzir essas operações muito rápido usando as atribuições aumentadas. Usa-se += ou -=
+#Posso usar todas as outras operações simplesmente adicionando seus operadores antes do =
+
+isso = 10
+isso += 5
+print(isso)
+
+aquilo = 30
+aquilo -= 15
+print(aquilo)
+
+#Outra forma:
+
+isso = 30
+isso = isso + 10
+
+# Isso acima tambem funciona com strings, é só somar ou retirar strings sem precisar escrever códigos extensos.
+
+#--------------------------------------
+
+#Construindo um Bill Splitter 
+
+
+num_of_friends = 4
+appetizers = 37.89
+main_courses = 57.34
+desserts = 39.39
+drinks = 64.21
+running_total = num_of_friends + appetizers + main_courses + desserts + drinks
+
+print('Total bill so far:', running_total)
+
