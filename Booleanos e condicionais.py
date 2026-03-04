@@ -156,7 +156,7 @@ if age >= 21 or age >=18 and (show_time != 'Evening' or is_member):
     else:
         service_charges = 1
     
-    final_price = base_price + extra_charges + service_charges - discount
+    final_price = base_price + extra_charges + service_charges - discount #Tenho saber fazer e isso sem tanta dificuldade
 
     print('Final price of ticket:', final_price) 
 else:
