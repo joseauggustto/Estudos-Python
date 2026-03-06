@@ -45,3 +45,5 @@ def outer_func():
     inner_func()
 
 outer_func()
+
+print('Não terminou o estudo')
