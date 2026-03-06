@@ -1,5 +1,4 @@
 #Vamos lá...
-
 distance_mi =  0.6
 is_raining = True
 has_bike = True 
