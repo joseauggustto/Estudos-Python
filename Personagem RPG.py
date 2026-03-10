@@ -1,0 +1,1 @@
+# Contruindo um score de personagem RPG. 
