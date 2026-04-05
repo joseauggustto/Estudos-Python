@@ -1,3 +1,6 @@
+# Ainda falta comentar o que cada linha faz... Isso é de suma importância.
+
+
 def pin_extractor(poems):
     secret_codes = []
     for poem in poems:

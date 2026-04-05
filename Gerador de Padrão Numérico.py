@@ -1,0 +1,1 @@
+#Desafio freeCodeCamp - Conteúdo de Loops e Sequências.
