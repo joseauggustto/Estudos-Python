@@ -1,6 +1,6 @@
 Início de um Repositório
 
-   git init: -----Transforma a pasta atual em um repositório Git.
+    git init: -----Transforma a pasta atual em um repositório Git.
 
     git branch -M main: -----Renomeia a ramificação principal para main.
 
