@@ -2,7 +2,7 @@
 
 #Uma das funções mais usadas em python é o input, que manda o usuário digitar algo.
 
-name = ('Qual o seu nome?')
+name = input('Qual o seu nome? ')
 print('Prazer', name) 
 
 # Já o comando int converte boolenaos e string numéricas em um número inteiro. 
