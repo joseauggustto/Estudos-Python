@@ -15,14 +15,14 @@ print(int('42'))
 # Para escrever funções customizadas é só usar o comando def seguido do nome que você deseja dar a função, um par de parênteses e dois pontos.
 
 def sum():
-    print(3 + 2)  #Isso aqui se chama identização, esse recuo para a direita.1 
+    print(3 + 2)  #Isso aqui se chama identização, esse recuo para a direita.
 sum()
 
-# Função de soma mais completa:
+# Função de soma mais completa: 
 
 def calculate(a, b, c):  # Essas letras são os parâmetros para a função.
-    print(a * b + c)  # Aqui eu vou decidir o que cada um vai fazer, eu acho...
-calculate(4, 4, 4)
+    print(a * b + c)  # Aqui eu vou decidir o que cada um vai fazer.
+calculate(4, 4, 4) # Aqui eu determino qual vai ser o valor de cada parâmetro.
 
 print('-' * 20)
 

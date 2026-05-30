@@ -2,10 +2,8 @@
 
 def apply_discount(price, discount):
 
-    # O erro está nesta linha abaixo:
     if not isinstance(price, (int, float)):
         return "The price should be a number."
-    # E o mesmo erro se repete nesta linha:
     elif not isinstance(discount, (int, float)):
         return "The discount should be a number."
     elif price <= 0:
