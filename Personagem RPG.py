@@ -36,7 +36,7 @@ def create_character(name, strength, smart, charisma):
     
     return f"{name}\nSTR {STR}\nINT {SMART}\nCHA {CHA}"
 
-print(create_character('ren', 4, 2, 1))
+print(create_character('ren', 4, 2, 1)) 
 
 
 
